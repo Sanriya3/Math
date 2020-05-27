@@ -1,5 +1,6 @@
 div{
-  border:solid 3px;color:rose;
+  {border-color: purple;
+  border-style: solid 3px;
   padding:5px;
   margin:5px;}
 #b1{background-color: yellow;}
