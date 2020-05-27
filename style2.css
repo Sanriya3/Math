@@ -5,9 +5,9 @@ div{
 #b1{background-color: yellow;}
 #b2{background-color: blue;}
 #b3{background-color: grey;
-  martin:5px;width:25%;float:right;}
+  martin:5px;width:25%;float:left;}
 #b4{background-color: grey;
-  martin:5px;width:60%;float:right;}
+  martin:5px;width:60%;float:left;}
 #b5{background-color: grey;
-  martin:5px;width:13%;float:right;}
+  martin:5px;width:13%;float:left;}
 #b6{background-color: blue;clear:both;}
