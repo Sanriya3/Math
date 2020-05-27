@@ -1,14 +1,14 @@
 div{
-  border:solid 3px #f00;
+  border:solid 3px; pink;
   padding:5px;
   margin:5px;
-  background-color: #00f;}
-#b1{background-color: #990;}
-#b2{background-color: #009;}
-#b3{background-color: #999;
-  martin:5px;width:25%;float:left;}
-#b4{background-color: #999;
-  martin:5px;width:60%;float:left;}
-#b5{background-color: #999;
-  martin:5px;width:13%;float:left;}
-#b6{background-color: #009;clear:both;}
+  background-color: yellow;}
+#b1{background-color: skyblue;}
+#b2{background-color: skyblue;}
+#b3{background-color: grey;
+  martin:5px;width:25%;float:right;}
+#b4{background-color: grey;
+  martin:5px;width:60%;float:right;}
+#b5{background-color: grey;
+  martin:5px;width:13%;float:right;}
+#b6{background-color: skyblue;clear:both;}
