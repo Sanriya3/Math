@@ -10,12 +10,13 @@ div{
   margin: 5px;} 
 #b1{background-color: yellow;
 margin: 5px;
-background: rose url(logo1.png) fixed center;}
+background-repeat: repeat-x;}
 #b2{
 margin: 5px;}
 #b3{width:25%;float:left;}
 #b4{width:45%;float:left;}
 #b5{width:13%;float:left;}
 #b6{background-color: blue;
+  background-repeat: repeat-y;
   margin: 5px;
   clear:both;}
