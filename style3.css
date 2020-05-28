@@ -10,6 +10,7 @@ div{
   margin: 5px;} 
 #b1{background-color: yellow;
 margin: 5px;
+background-image: url(logo1.png);
 background-repeat: repeat-x;}
 #b2{
 margin: 5px;}
