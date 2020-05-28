@@ -1,13 +1,13 @@
 .fg1{background-color:blue;}
 table,tr,td{border:solid 3px rosy;}
-body{margin:0px;}
+body{margin:5px;}
 div{ 
-  padding:0px; 
+  padding:5px; 
   margin: 5px;} 
 #b1{background-color: yellow;
 width:100%;
-  padding: 0px;
-  margin: 0px;}
+  padding: 5px;
+  margin: 5px;}
 #b2{background-color: blue;}
 #b3{background-color: grey;
   martin:5px;width:25%;float:left;}
