@@ -15,4 +15,6 @@ width:100%;
   martin:5px;width:45%;float:left;}
 #b5{background-color: grey;
   martin:5px;width:13%;float:left;}
-#b6{background-color: blue;clear:both;}
+#b6{background-color: blue;
+  width:100%;
+  clear:both;}
