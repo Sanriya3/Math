@@ -11,7 +11,8 @@ div{
 #b1{
 margin: 5px;
 background-image: url(logo1.png);
-background-repeat: repeat-x;}
+background-repeat: repeat-x;
+background: black url(logo1.png) fixed center;}
 #b2{
 margin: 5px;}
 #b3{width:25%;float:left;}
