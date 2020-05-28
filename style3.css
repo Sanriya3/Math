@@ -18,6 +18,7 @@ margin: 5px;}
 #b4{width:45%;float:left;}
 #b5{width:13%;float:left;}
 #b6{background-color: blue;
+  background-image: url(logo1.png);
   background-repeat: repeat-y;
   margin: 5px;
   clear:both;}
