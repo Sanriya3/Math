@@ -1,8 +1,8 @@
-.fd1{font-family: Georgia;}
-.fd2{font-family: Arial;}
-.fd3{font-family: Times New Roman,cursive;}
-.fd4{font-family: Helvetica,sans-serif;}
-.fd5{font-family: Verdana;}
+.fd1{font-style: oblique;}
+.fd2{font-style: italic;}
+.fd3{font-style: normal;}
+.fd4{font-style: oblique;}
+.fd5{font-style: normal;}
 {background-color: grey;}
 body{margin:5px;}
 div{
