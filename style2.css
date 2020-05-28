@@ -1,6 +1,7 @@
 div{
 border:solid 3px; 
   color:red; 
+  padding:5px;
   margin: 5px; 
   background:yellow;}
 #b1{background-color: yellow;}
