@@ -4,16 +4,16 @@ body{margin:5px;}
 div{
   padding:5px; 
   margin: 5px;} 
-#b1{background-color: yellow;border-color: rosy;
+#b1{background-color: yellow;
 margin: 5px;}
-#b2{background-color: blue; border-color: rosy;
+#b2{background-color: blue; 
 margin: 5px;}
-#b3{background-color: grey; border-color: rosy;
+#b3{background-color: grey; 
   martin:5px;width:25%;float:left;}
-#b4{background-color: grey; border-color: rosy;
+#b4{background-color: grey; 
   martin:5px;width:45%;float:left;}
-#b5{background-color: grey;border-color: rosy;
+#b5{background-color: grey;
   martin:5px;width:13%;float:left;}
-#b6{background-color: blue; border-color: rosy;
+#b6{background-color: blue;
   margin: 5px;
   clear:both;}
