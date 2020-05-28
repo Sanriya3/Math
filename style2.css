@@ -2,12 +2,12 @@
 table,tr,td{border:solid 3px rosy;}
 body{margin:0px;}
 div{ 
-  padding:5px; 
+  padding:0px; 
   margin: 5px;} 
 #b1{background-color: yellow;
 width:100%;
   padding: 0px;
-  margin: 0px}
+  margin: 0px;}
 #b2{background-color: blue;}
 #b3{background-color: grey;
   martin:5px;width:25%;float:left;}
