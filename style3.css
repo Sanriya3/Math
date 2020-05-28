@@ -11,7 +11,7 @@ div{
 #b1{background-color: yellow;
 margin: 5px;
 background: white url(logo1.png) fixed center;}
-#b2{
+#b2{ background-color: blue;
 margin: 5px;}
 #b3{width:25%;float:left;}
 #b4{width:45%;float:left;}
