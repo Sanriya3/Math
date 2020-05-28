@@ -1,7 +1,9 @@
-div{ border:solid 3px rosy;
+.fg1{background-color: rosy;}
+table,tr,td{border:solid 1px blue;}
+body{margin:0px;}
+div{
   padding:5px; 
-  margin: 5px;
-background-color: yellow;} 
+  margin: 5px;} 
 #b1{background-color: yellow;}
 #b2{background-color: blue;}
 #b3{background-color: grey;
