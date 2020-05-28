@@ -4,13 +4,15 @@ body{margin:0px;}
 div{
   padding:5px; 
   margin: 5px;} 
-#b1{background-color: yellow;}
-#b2{background-color: blue;}
+#b1{background-color: yellow;
+margin: 5px;padding:5px}
+#b2{background-color: blue;
+margin: 5px;padding:5px}
 #b3{background-color: grey;
-  martin:5px;width:25%;float:left;}
+  martin:5px;padding:5px;width:25%;float:left;}
 #b4{background-color: grey;
-  martin:5px;width:45%;float:left;}
+  martin:5px;padding:5px;width:45%;float:left;}
 #b5{background-color: grey;
-  martin:5px;width:13%;float:left;}
-#b6{background-color: blue;
+  martin:5px;padding:5px;width:13%;float:left;}
+#b6{background-color: blue; margin: 5px;padding:5px
   clear:both;}
