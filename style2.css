@@ -1,6 +1,6 @@
 .fg1{background-color: rosy;}
-table,tr,td{border:solid 1px blue;}
-body{margin:0px;}
+table,tr,td{border:solid 3px blue;}
+body{margin:5px;}
 div{
   padding:5px; 
   margin: 5px;} 
