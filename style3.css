@@ -1,6 +1,7 @@
 .fd1{font-family: Georgia;}
-.fd2{font-family: Times New Roman;}
-.fd3{font-family: Arial;}
+{background-color: grey;}
+table,tr,td{border:solid 3px rosy;}
+body{margin:5px;}
 div{
   padding:5px; 
   margin: 5px;} 
